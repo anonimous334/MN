@@ -1,0 +1,15 @@
+PENTRU PARTIAL
+
+DIN CURSUL 2:
+
+FORMA JORDAN
+
+MATRICE RAU CONDITIONATE/NUMAR DE CONDITIONARE
+
+CERCURILE LUI GEROSHKIN
+
+D = { z e C / |z - aii| = sum(j = 1 -> n) of (aij)}
+
+lambda(A) c (U(i = 1 -> n) of (Di)) unde lambda(A) = {lambda1,...,lambdan} = spectrul lui A
+
+A = [3 1 0;
